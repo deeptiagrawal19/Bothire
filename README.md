@@ -181,27 +181,6 @@ Bottom Line: Fast-track for interviews immediately.
 - **Scalability**: Handles 100+ candidates efficiently
 - **Memory**: Runs on standard laptops (4GB+ RAM recommended)
 
-## 🏢 Use Cases
-
-### Corporate Recruiters
-- Screen hundreds of applications quickly
-- Generate standardized candidate reports
-- Reduce hiring bias with objective scoring
-
-### Startup Founders  
-- Find versatile candidates for multiple roles
-- Identify culture fit and growth potential
-- Make data-driven hiring decisions fast
-
-### Technical Managers
-- Deep-dive into technical skill alignment
-- Assess experience levels accurately
-- Plan targeted interview questions
-
-### HR Teams
-- Create professional candidate summaries
-- Export results for stakeholder review
-- Track hiring metrics and success rates
 
 ## 🛠 Technology Stack
 
