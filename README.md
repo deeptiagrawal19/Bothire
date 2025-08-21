@@ -7,8 +7,7 @@ BotHire uses advanced semantic analysis to instantly match candidates to your jo
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.0+-red.svg)
-![Screenshot]([https://github.com/user/repo/assets/12345/screenshot.png](https://github.com/user-attachments/assets/77b47392-9d8e-4194-ab5e-1746e0dfaca7
-))
+
 
 ## 🎯 Quick Demo
 
