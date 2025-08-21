@@ -9,7 +9,7 @@ BotHire uses advanced semantic analysis to instantly match candidates to your jo
 ![Streamlit](https://img.shields.io/badge/streamlit-1.0+-red.svg)
 
 
-## 🎯 Quick Demo
+##  Quick Demo
 
 ```
 Input: "Senior Python Developer with 5+ years Django and React experience"
@@ -116,7 +116,7 @@ Write a detailed job description including:
 - Compare candidates side-by-side
 - Export results for team discussion
 
-## 🎯 Example Output
+##  Example Output
 
 ```
 🏆 TOP CANDIDATE RECOMMENDATION
@@ -148,7 +148,7 @@ Perfect skill alignment makes this a low-risk, high-reward hire.
 Bottom Line: Fast-track for interviews immediately.
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 ### Sidebar Controls
 - **Max Candidates**: 1-20 results to display
@@ -166,7 +166,7 @@ Bottom Line: Fast-track for interviews immediately.
 - Customize UI styling and colors
 - Add support for additional file formats
 
-## 📊 Performance
+##  Performance
 
 - **Speed**: Processes 10 resumes in ~30 seconds
 - **Accuracy**: 85-95% skill extraction accuracy
@@ -174,7 +174,7 @@ Bottom Line: Fast-track for interviews immediately.
 - **Memory**: Runs on standard laptops (4GB+ RAM recommended)
 
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 - **AI/ML**: Sentence Transformers, scikit-learn, TF-IDF
 - **Frontend**: Streamlit with custom CSS
@@ -183,7 +183,7 @@ Bottom Line: Fast-track for interviews immediately.
 - **File Processing**: PyPDF2, python-docx
 - **Language**: Python 3.7+
 
-## 🐛 Troubleshooting
+##   Troubleshooting
 
 ### Model Loading Issues
 ```bash
@@ -212,7 +212,7 @@ export TRANSFORMERS_CACHE=/path/to/cache
 pip install torch torchvision torchaudio
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Here's how to help:
 
@@ -249,22 +249,6 @@ We welcome contributions! Here's how to help:
 - [ ] Advanced analytics dashboard
 - [ ] Mobile application
 
-## ❓ FAQ
-
-**Q: Is this completely free to use?**
-A: Yes! All core AI models are free. You only pay for hosting if you deploy to the cloud.
-
-**Q: How accurate is the candidate matching?**
-A: 85-95% accuracy in our testing, significantly better than keyword-based systems.
-
-**Q: Can I customize it for my industry?**
-A: Absolutely! The skill database is fully customizable for any industry or role type.
-
-**Q: Is candidate data stored anywhere?**
-A: No! Everything runs locally on your machine. No data is sent to external servers.
-
-**Q: What file formats are supported?**
-A: PDF, DOCX, DOC, and TXT files. We're working on additional formats.
 
 ## 📄 License
 
@@ -277,7 +261,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Motivated by the inefficiency of manual resume screening
 - Powered by cutting-edge AI and lots of determination
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Sentence Transformers](https://www.sbert.net/) for amazing semantic models
 - [Streamlit](https://streamlit.io/) for the beautiful web framework
